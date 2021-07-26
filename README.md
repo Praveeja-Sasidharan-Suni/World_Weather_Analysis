@@ -1,7 +1,7 @@
 # World Weather Analysis
 
 ## Overview
-The main purpose is to add the weather description to the weather data which we are retrieving. Then, we will accept input 
+The main purpose of World Weather Analysis is to add the weather description to the weather data which we are retrieving. Then, we will use input 
 statements to filter the data for user's weather preferences, which will be used to identify potential travel destinations and nearby hotels. 
 From the list of potential travel destinations,we need to choose four cities to create a travel itinerary. Finally, using the Google 
 Maps Directions API, we will create a travel route between the four cities as well as a marker layer map.
